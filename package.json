@@ -1,0 +1,10 @@
+{
+  "name": "tailoredCve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aaditya Menon <aaditya@sparker0i.me>",
+  "license": "none",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
